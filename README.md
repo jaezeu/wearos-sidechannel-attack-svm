@@ -20,5 +20,5 @@ The data is then compiled and then fed into a Support Vector Machine Model(refer
 | --- | --- |
 | acc/ | This folder contains the manifest files to run the wearOS application on Android Studio. Simply clone this repo, launch android studio -> open project -> select "acc" and the project will open |
 | main.py | The source code of the SVM model(includes training and testing data as well as hyperparameter tuning using GridCV) |
-| totalrightcomb.csv | Contains all the aggregated data of the use case 1. mentioned above |
+| dataset/totalrightcomb.csv | Contains all the aggregated data of the use case 1. mentioned above |
 
