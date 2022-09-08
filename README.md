@@ -22,3 +22,7 @@ The data is then compiled and then fed into a Support Vector Machine Model(refer
 | main.py | The source code of the SVM model(includes training and testing data as well as hyperparameter tuning using GridCV) |
 | dataset/totalrightcomb.csv | Contains all the aggregated data of the use case 1. mentioned above |
 
+## Disclaimer
+
+Please note that this project code has not been maintained since 2019, therefore certain upgrades and tweaks with regards to Android Studio MAY have to be made in order for this app to function as expected
+
