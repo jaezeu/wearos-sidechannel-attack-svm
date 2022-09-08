@@ -1,4 +1,4 @@
-# wearos-sidechannel-attack-svm
+# Side Channel Attack on Mobile Devices using WearOS and Supervised Machine Learning
 
 ## Project Summary
 
